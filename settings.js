@@ -7,7 +7,7 @@ global.email = 'umarking4437@gmail.com'
 global.github = 'umar'
 global.location = 'Srilanka Colombo'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢/n/n+923033035909';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
+global.author = '│𝐔𝐌𝐀𝐑│𝐊𝐀𝐇𝐍│🦋';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
@@ -48,6 +48,6 @@ AUTO_STICKER: process.env.AUTO_STICKER || false  ,
 WELCOME:  process.env.WELCOME  || true ,    
 NUMBER_212_BLOCK: process.env.NUMBER_212_BLOCK || false  ,
 FOOTER: process.env.FOOTER ||  '©⏤͟͟͞͞★𝐔𝐌𝐀𝐑❍₰𝐊𝐇𝐀𝐍844࿐',
-LOGO: process.env.LOGO || `https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg` ,
-IMAGE: process.env.IMAGE || `https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg`     
+LOGO: process.env.LOGO || `https://telegra.ph/file/9564e8e66d772c034f4d4.jpg` ,
+IMAGE: process.env.IMAGE || `https://telegra.ph/file/9564e8e66d772c034f4d4.jpg`     
 };
